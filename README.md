@@ -36,3 +36,7 @@ Download the RAR File to check the excel workbook with all the details and the d
 •	Set up charts for Hourly and Daily Trends for Total Orders, Store data of all the three stores, Gender Diversity, Modes of Payment and Total Sales and Income using Pivot Table and Pivot Chart.
 
 •	Picked Insights such as Busiest Day and Busiest Time, Top Sales Store for each of the three months, Gender and mode of payment preferred and the store with the highest sales overall.
+
+## Conclusion:
+
+All the insights picked are mentioned directly in the dashboard.
