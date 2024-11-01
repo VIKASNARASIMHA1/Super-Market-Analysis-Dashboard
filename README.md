@@ -21,7 +21,7 @@ XYZ supermarket has three stores setup at Bengaluru, Chennai and Hyderabad. They
 
 ## Preview:
 
-![Dashboard Preview](Dashboad.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Procedure:
 
