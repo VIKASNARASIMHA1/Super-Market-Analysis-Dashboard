@@ -3,6 +3,8 @@
 
 XYZ supermarket has three stores setup at Bengaluru, Chennai and Hyderabad. They are currently struggling with their business as there is a huge gap between there total sales and income and want to figure how to handle it because of which they need a report that is analyzing the data of all the three stores.
 
+![Dashboard Preview](Dashboad_Snapshot.png)
+
 ## Requirement:
 
 •	Generate a single page dashboard using excel without any slicers that modifies the dashboard.
