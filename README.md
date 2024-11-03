@@ -38,4 +38,16 @@ XYZ supermarket has three stores setup at Bengaluru, Chennai and Hyderabad. They
 
 ## Conclusion:
 
+•	Insights on the Total Sales, Quantity Sold, Total Income and Average Unit Price out of all the three stores are fetched.
+
+•	Hourly Trend and Daily Trends for Total Orders out of all the three stores were fetched which indicated that Saturday is the busiest day and 7 – 8 pm is the busiest time in general among all the three stores combined. The hourly order value and daily order value was also fetched as data labels on the charts.
+
+•	The Total Income and Quantity sold of all three stores for the three months individually were plotted to find that the top sales in January, February and March were from Bengaluru, Chennai, Hyderabad Store respectively indicating an almost equally distributed performance.
+
+•	Further, Insights on Gender Diversity, Preference on modes of payment and comparison on Total Sales and Income for the three stores fetched individually resulted with diverse customer range, E – Wallet as the most preferred mode of payment and Hyderabad store with the highest total sales for all the three months combined.
+
+## Inspiration:
+
+I was working on a freelance project for a well-known supermarket which had five branches across south India. The task there was completely different and it was more on analyzing each sales persons performance overall with sales associated with him and his / her performance according to the target. That experience gave me this idea about doing something related to supermarket but different from what I did so I chose to analyze the sales data in various ways grabbing as many insights as possible.
+
 
