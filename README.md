@@ -6,7 +6,7 @@ XYZ supermarket has three stores setup at Bengaluru, Chennai and Hyderabad. They
 
 ![Dashboard Preview](Dashboard.png)
 
-[Download the RAR File to check the excel workbook with all the details and the dashboard.](SM_ExcelAnalysis.xlsx)
+[Download the Excel Workbook with all the details and the dashboard.](SM_ExcelAnalysis.xlsx)
 
 ## Requirement:
 
