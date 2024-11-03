@@ -46,6 +46,8 @@ XYZ supermarket has three stores setup at Bengaluru, Chennai and Hyderabad. They
 
 •	Further, Insights on Gender Diversity, Preference on modes of payment and comparison on Total Sales and Income for the three stores fetched individually resulted with diverse customer range, E – Wallet as the most preferred mode of payment and Hyderabad store with the highest total sales for all the three months combined.
 
+•	Significant attention has to be put on Sales and income margin as it is significantly low and increasing it will help the business flourish.
+
 ## Inspiration:
 
 I was working on a freelance project for a well-known supermarket which had five branches across south India. The task there was completely different and it was more on analyzing each sales persons performance overall with sales associated with him and his / her performance according to the target. That experience gave me this idea about doing something related to supermarket but different from what I did so I chose to analyze the sales data in various ways grabbing as many insights as possible.
